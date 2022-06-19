@@ -1,0 +1,30 @@
+.container{
+  margin-top: 30px;
+  text-align: center;
+  border: 10px solid red;
+  border-radius: 19px;
+  border-style: double;
+
+}
+.container .jumbotron{
+  color:yello;
+  background: rgb(115, 125, 122);
+}
+.jumbotron a{
+  background: yellow;
+  color: red;
+  border: 10px solid green;
+}
+body{
+ background: url(https://images.unsplash.com/photo-1508615039623-a25605d2b022?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+h1{
+  color:white;
+  text-align: center;
+  background: green;
+}
+html{
+  height:100%;
+}
